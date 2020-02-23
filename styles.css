@@ -1,0 +1,20 @@
+body {
+	width: 50%;
+	margin: 0 auto;
+}
+
+html {
+	background-color: lightgrey;
+}
+
+input {
+	background-color: lightyellow;
+}
+
+button {
+	background-color: lightblue;
+}
+
+.newGameButton {
+	margin-top: 20px;
+}
